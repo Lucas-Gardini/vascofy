@@ -1,0 +1,1 @@
+<template><InitialCard /></template>

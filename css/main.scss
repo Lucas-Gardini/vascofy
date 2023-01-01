@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+@font-face {
+	font-family: "Long Shot";
+	src: url("@/assets/fonts/Long_Shot.ttf") format("truetype");
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5;
+
+	font-family: "Righteous", cursive;
+
+	overflow-y: hidden;
+}
+
+.hide-if-mobile {
+	@media (max-width: 767px) {
+		display: none;
+	}
+}
