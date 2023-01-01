@@ -6,6 +6,10 @@ useHead({
 			name: "description",
 			content: "Gerador de imagens para o meme do Vasco da Gama",
 		},
+		{
+			name: "google-site-verification",
+			content: "vNsgXojFXB01SSGgnQpvaMnPYCqn1RWTyedRd-k5ttg",
+		},
 	],
 });
 </script>
