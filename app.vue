@@ -1,3 +1,15 @@
+<script lang="ts" setup>
+useHead({
+	title: "Vascofy - Bem vindo ao gigante!",
+	meta: [
+		{
+			name: "description",
+			content: "Gerador de imagens para o meme do Vasco da Gama",
+		},
+	],
+});
+</script>
+
 <template>
 	<div>
 		<LayoutHeader />
